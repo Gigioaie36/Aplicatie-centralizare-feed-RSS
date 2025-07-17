@@ -1,0 +1,12 @@
+Comenzi de Navigare (Modul Listă)
+↑(Pg Up) Navighează în sus Selectează articolul anterior
+↓(Dg Dn) Navighează în jos Selectează articolul următor 
+Enter Deschide detalii Afișează detaliile articolului selectat
+R Refresh manual Actualizează lista de articole
+Q Ieșire Închide aplicația
+
+Comenzi în Modul Detalii Articol
+ESC Înapoi Revine la lista de articole
+B Înapoi Alternativă pentru ESC
+O Deschide link Deschide articolul în browser web
+Q Ieșire Închide aplicația
